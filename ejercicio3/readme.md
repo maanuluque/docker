@@ -1,7 +1,7 @@
 Primero, hacemos un pull de las imagenes del ejercicio:
 
-docker pull nicopaez/passwordapi-java:java8-alpine
-docker pull nicopaez/passwordapi-java:java8-fabric.
+> docker pull nicopaez/passwordapi-java:java8-alpine
+> docker pull nicopaez/passwordapi-java:java8-fabric.
 
 Luego, ejecutamos el comando docker inspect [image_ID] para ver la cantidad y que layers esta utilizando la imagen.
 
