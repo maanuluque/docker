@@ -1,0 +1,5 @@
+Comando ejecutado:
+```
+docker run --name docker-nginx -p 80:80 -v ~/../../mnt/c/Users/Manuel/Desktop/docker/ejercicio1:/usr/share
+/nginx/html -d nginx
+```
